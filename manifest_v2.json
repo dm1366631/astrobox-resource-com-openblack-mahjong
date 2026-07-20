@@ -25,7 +25,13 @@
       }
     ]
   },
-  "links": [],
+  "links": [
+    {
+      "title": "github",
+      "url": "https://github.com/dm1366631/mahjong-game/",
+      "icon": "github-logo"
+    }
+  ],
   "downloads": {
     "xmb10nfc": {
       "version": "2.0.1",
