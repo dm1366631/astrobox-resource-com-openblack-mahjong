@@ -5,6 +5,7 @@
     "name": "杭州麻将",
     "description": "因为想在学校里玩麻将，所以做了这个",
     "preview": [
+      "media/cover.png",
       "media/1.png",
       "media/2.png",
       "media/3.png",
@@ -13,8 +14,7 @@
       "media/6.png",
       "media/7.png",
       "media/8.png",
-      "media/9.png",
-      "media/cover.png"
+      "media/9.png"
     ],
     "icon": "media/icon.png",
     "cover": "media/cover.png",
@@ -34,15 +34,15 @@
   ],
   "downloads": {
     "xmb10nfc": {
-      "version": "2.0.2",
+      "version": "2.0.3",
       "file_name": "downloads/com.openblack.mahjong.release.2.0.rpk"
     },
     "xmb10": {
-      "version": "2.0.2",
+      "version": "2.0.3",
       "file_name": "downloads/com.openblack.mahjong.release.2.0.rpk"
     },
     "xmb10p": {
-      "version": "2.0.2",
+      "version": "2.0.3",
       "file_name": "downloads/com.openblack.mahjong.release.2.0.rpk"
     }
   },
