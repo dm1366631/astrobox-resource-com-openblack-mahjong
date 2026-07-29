@@ -5,7 +5,6 @@
     "name": "麻将",
     "description": "因为想在学校里玩麻将，所以做了这个",
     "preview": [
-      "media/cover.png",
       "media/1.png",
       "media/2.png",
       "media/3.png",
@@ -13,7 +12,8 @@
       "media/5.png",
       "media/6.png",
       "media/7.png",
-      "media/8.png"
+      "media/8.png",
+      "media/cover.png"
     ],
     "icon": "media/icon.png",
     "cover": "media/cover.png",
