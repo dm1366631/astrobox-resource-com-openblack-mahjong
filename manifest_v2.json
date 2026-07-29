@@ -1,8 +1,8 @@
 {
   "item": {
-    "id": "com.openblack.mahjong",
+    "id": "com.openblack.mahjong-next",
     "restype": "quick_app",
-    "name": "杭州麻将",
+    "name": "麻将",
     "description": "因为想在学校里玩麻将，所以做了这个",
     "preview": [
       "media/cover.png",
@@ -13,8 +13,7 @@
       "media/5.png",
       "media/6.png",
       "media/7.png",
-      "media/8.png",
-      "media/9.png"
+      "media/8.png"
     ],
     "icon": "media/icon.png",
     "cover": "media/cover.png",
@@ -34,16 +33,16 @@
   ],
   "downloads": {
     "xmb10nfc": {
-      "version": "2.0.3",
-      "file_name": "downloads/com.openblack.mahjong.release.2.0.rpk"
+      "version": "3.0.0",
+      "file_name": "downloads/com.openblack.mahjong-next.release.3.0.rpk"
     },
     "xmb10": {
-      "version": "2.0.3",
-      "file_name": "downloads/com.openblack.mahjong.release.2.0.rpk"
+      "version": "3.0.0",
+      "file_name": "downloads/com.openblack.mahjong-next.release.3.0.rpk"
     },
     "xmb10p": {
-      "version": "2.0.3",
-      "file_name": "downloads/com.openblack.mahjong.release.2.0.rpk"
+      "version": "3.0.0",
+      "file_name": "downloads/com.openblack.mahjong-next.release.3.0.rpk"
     }
   },
   "ext": {}
