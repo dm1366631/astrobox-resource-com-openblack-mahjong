@@ -33,24 +33,29 @@
   ],
   "downloads": {
     "xmb10nfc": {
-      "version": "3.0.2",
-      "file_name": "downloads/com.openblack.mahjong-next.release.3.0.rpk"
+      "version": "3.0",
+      "file_name": "downloads/com.openblack.mahjong-next.debug.3.0-xmb10nfc.rpk",
+      "versionCode": 3
     },
     "xmb10": {
-      "version": "3.0.2",
-      "file_name": "downloads/com.openblack.mahjong-next.release.3.0.rpk"
+      "version": "3.0",
+      "file_name": "downloads/com.openblack.mahjong-next.debug.3.0-xmb10.rpk",
+      "versionCode": 3
     },
     "xmb10p": {
-      "version": "3.0.2",
-      "file_name": "downloads/com.openblack.mahjong-next.release.3.0.rpk"
+      "version": "3.0",
+      "file_name": "downloads/com.openblack.mahjong-next.debug.3.0-xmb10p.rpk",
+      "versionCode": 3
     },
     "xmb11": {
-      "version": "3.0.2",
-      "file_name": "downloads/com.openblack.mahjong-next.release.3.0.rpk"
+      "version": "3.0",
+      "file_name": "downloads/com.openblack.mahjong-next.debug.3.0-xmb11.rpk",
+      "versionCode": 3
     },
     "xmb11nfc": {
-      "version": "3.0.2",
-      "file_name": "downloads/com.openblack.mahjong-next.release.3.0.rpk"
+      "version": "3.0",
+      "file_name": "downloads/com.openblack.mahjong-next.debug.3.0-xmb11nfc.rpk",
+      "versionCode": 3
     }
   },
   "ext": {}
